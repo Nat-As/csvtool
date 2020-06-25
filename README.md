@@ -5,7 +5,7 @@ This script uses a single row csv file (key) and a two row csv file (key-val) wh
 |KEY|
 |---|
 |001|
-|005|
+|004|
 |058|
 |999|
 |002|
@@ -22,7 +22,7 @@ This script uses a single row csv file (key) and a two row csv file (key-val) wh
 |KEY|Val|
 |---|---|
 |001|0x01F|
-|005|0x1F4|
+|004|0X190|
 |058|0x03A|
 |999|0x3E7|
 |002|0x0C8|
